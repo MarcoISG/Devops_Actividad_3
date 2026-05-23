@@ -8,7 +8,7 @@ on:
 jobs:
 
   # =========================
-  # 🔐 1. SNYK SCAN ..adiere comandos 
+  # 🔐 1. SNYK SCAN ..adiere comandos... 
   # =========================
   snyk-scan:
     name: Snyk Security Scan
